@@ -1,0 +1,28 @@
+name: Tiguri
+favicon: null
+layout_spectrum: 0.4060897515155375
+typography_spectrum: 0.8624167374800891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3910372266545892
+  lightness: 0.6341413985937834
+  saturation: 0.6520390650257468
+  rhythmicContrast: 0.4299496237654239
+purpose: []
